@@ -1,1 +1,1 @@
-# git-practice
+깃 사용법 복습
